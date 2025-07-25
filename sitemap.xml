@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jamieyy.gitee.io/mysite/categories/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/tags/hugo/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/posts/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/tags/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/posts/first/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://jamieyy.gitee.io/mysite/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-07-24T11:00:00+08:00</lastmod>
+  </url>
+</urlset>

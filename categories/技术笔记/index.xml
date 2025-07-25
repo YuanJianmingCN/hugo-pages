@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术笔记 on 我的 Hugo 博客</title>
+    <link>https://jamieyy.gitee.io/mysite/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 技术笔记 on 我的 Hugo 博客</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Jul 2025 11:00:00 +0800</lastBuildDate>
+    <atom:link href="https://jamieyy.gitee.io/mysite/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>树莓派部署 Hugo 的流程记录</title>
+      <link>https://jamieyy.gitee.io/mysite/posts/first/</link>
+      <pubDate>Thu, 24 Jul 2025 11:00:00 +0800</pubDate>
+      <guid>https://jamieyy.gitee.io/mysite/posts/first/</guid>
+      <description>&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;p&gt;最近我在树莓派 5B 上部署 Hugo 博客，并使用 CNB.cool 实现了内网博客的托管。&lt;/p&gt;
+&lt;h2 id=&#34;环境信息&#34;&gt;环境信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;树莓派 5B，Ubuntu 24.04 Server&lt;/li&gt;
+&lt;li&gt;Hugo v0.127.0（extended 版本）&lt;/li&gt;
+&lt;li&gt;主题：PaperMod&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;安装步骤&#34;&gt;安装步骤&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# 安装 Hugo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;wget https://github.com/gohugoio/hugo/releases/download/v0.127.0/hugo_extended_0.127.0_Linux-64bit.tar.gz
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;tar -zxvf hugo_extended_0.127.0_Linux-64bit.tar.gz
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo mv hugo /usr/local/bin/
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;安装最新版本
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
